@@ -1,5 +1,6 @@
 # Predicting-Delivery-Time
-AIDS2 Assignment 2
+Developed a cognitive application for Logistics using Neural Network.
+
 In this project, we built a cognitive application using neural networks to predict delivery time based on shipment parameters. 
 
 Here's a quick breakdown of what we did:
